@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LegionSAnime</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="registrar">Registrar</string>
+    <string name="msj_empty">No se encontraron animes</string>
+</resources>
